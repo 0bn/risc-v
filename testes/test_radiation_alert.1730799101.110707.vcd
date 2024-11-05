@@ -1,0 +1,49 @@
+$date
+    Tue Nov  5 06:31:41 2024
+$end
+$version
+    MyHDL 0.11.49
+$end
+$timescale
+    1ns
+$end
+
+$scope module test_radiation_alert $end
+$var reg 8 ! limit $end
+$var reg 16 " accumulated_radiation $end
+$var reg 1 # alert $end
+$var reg 2 $ alert_mode $end
+$var reg 4 % exposure_time $end
+$var reg 1 & protection_mode $end
+$var reg 8 ' radiation_level $end
+$scope module RadiationAlertSystem0 $end
+$var reg 8 ' radiation_level $end
+$var reg 8 ! limit $end
+$var reg 1 # alert $end
+$var reg 2 $ alert_mode $end
+$var reg 4 % exposure_time $end
+$var reg 16 " accumulated_radiation $end
+$var reg 1 & protection_mode $end
+$var reg 4 ( log_index $end
+$upscope $end
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+b01100100 !
+b0000000000000000 "
+b0 #
+b00 $
+b0000 %
+b0 &
+b00000000 '
+b0000 (
+$end
+b00101101 '
+b0000000000101101 "
+b0000000001011010 "
+b0000000010000111 "
+b0000000010110100 "
+b0000000011100001 "
+b0000000100001110 "
+b0000000100111011 "
