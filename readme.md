@@ -1,7 +1,7 @@
 # Sistema de Alerta de Radiação
 
-**Quem fez:** Marcos Pedro Corrêa Cheder  
-**Matrícula:** 23.00697-8
+**Nome:** Marcos Pedro Corrêa Cheder  
+**RA:** 23.00697-8
 
 ## Sobre
 
